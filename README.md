@@ -1,5 +1,5 @@
 # tides_lstm
-Learning LSTMs in TensorFlow by predicting SF water levels.
+Predicting SF water levels using LSTMs in TensorFlow
 
 [This tutorial](https://www.youtube.com/watch?v=c0k-YLQGKjY) was useful.
 
